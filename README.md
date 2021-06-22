@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 <img src ='https://github-readme-stats.vercel.app/api?username=kskrao219&theme=solarized-light&show_icons=true'/>
 <img src ='https://github-readme-stats.vercel.app/api/top-langs/?username=kskrao219&theme=solarized-light&show_icons=true'/>
 
+Note : if you are unable to pre-view .ipynb or jupyter notebook or colab notebook then [click here](https://nbviewer.jupyter.org/) and paste the .ipynb Github link :)
+
