@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working IoT
+- 🔭 I’m currently working on IoT
 - 🌱 I’m currently learning Computer vision and Deep Learning
 - 👯 I’m looking to collaborate on Microcontroller based projects
 - :email: Mail me @ kskrao2192000@gmail.com
