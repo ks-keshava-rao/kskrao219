@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 Connect with me - [LinkedIn](https://www.linkedin.com/in/k-s-keshava-rao-97a7b2174?lipi=urn:li:page:d_flagship3_profile_view_base_contact_details;v58Doe%2b4RleuRxLHAt1kwg==)
 <img src ='https://github-readme-stats.vercel.app/api?username=kskrao219&theme=radical&show_icons=true'/>
 <img src ='https://github-readme-stats.vercel.app/api/top-langs/?username=kskrao219&theme=radical&show_icons=true'/>
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/kskrao219&repo=github-readme-stats'
+<!-- <img src='https://github-readme-stats.vercel.app/api/pin/?username=kskrao219&repo=github-readme-stats' -->
 
 Note : if you are unable to pre-view .ipynb or jupyter notebook or colab notebook then [click here](https://nbviewer.jupyter.org/) and paste the .ipynb Github link :)
 
