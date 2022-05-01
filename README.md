@@ -10,8 +10,7 @@
 Here are some ideas to get you started:
 
 <!--- 🔭 I’m currently working on IoT -->
-- 🌱 I’m currently learning Computer vision and Deep Learning
-- 👯 I’m looking to collaborate on Python based projects. 
+- 🌱 I’m currently learning React JS & Node.Js
 - :email: Mail me @ kskrao2192000@gmail.com
 - 📫 Connect with me - [LinkedIn](https://www.linkedin.com/in/k-s-keshava-rao-97a7b2174?lipi=urn:li:page:d_flagship3_profile_view_base_contact_details;v58Doe%2b4RleuRxLHAt1kwg==)
 <img src ='https://github-readme-stats.vercel.app/api?username=kskrao219&theme=radical&show_icons=true'/>
