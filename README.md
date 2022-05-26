@@ -28,6 +28,10 @@ Hey 👋,I am <strong><a href="https://github.com/kskrao219/" target="_blank">K 
 <!--   <code><img width="70px" src="https://img.icons8.com/color/2x/dart.png"></code> -->
 <!--   <code><img width="70px" src="https://img.icons8.com/color/2x/typescript.png"></code> -->
   <code><img width="70px"  src="https://img.icons8.com/color/2x/javascript.png"></code>
+    <code><img width="70px"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+  <code><img width="70px"  src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
+  <code><img width="70px"  src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
+  <code><img width="70px"  src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
   <code><img width="70px"  src="https://img.icons8.com/color/2x/python.png"></code>
   <code ><img width="70px" width="50px" src="https://img.icons8.com/color/2x/html-5.png"></code>
   <code><img width="70px"  src="https://img.icons8.com/color/2x/css3.png"></code>
