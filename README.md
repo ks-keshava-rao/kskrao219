@@ -17,16 +17,12 @@ Hey 👋,I am <strong><a href="https://github.com/kskrao219/" target="_blank">K 
 ### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
 
 <p align="center">
-<!--   <code><img width="70px" src="https://img.icons8.com/color/2x/flutter.png"></code> -->
+
 <!--   <code><img width="70px" src="https://img.icons8.com/color/2x/react-native.png"></code> -->
 <!--   <code><img height="70px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"></code> -->
   <code><img width="70px" src="https://img.icons8.com/color/2x/nodejs.png"></code>
   <code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<!--   <code><img width="70px" src="https://img.icons8.com/color/2x/graphql.png"></code> -->
-<!--   <code><img width="70px" src="https://img.icons8.com/color/2x/mongodb.png"></code> -->
-<!--   <code><img width="70px" src="https://img.icons8.com/color/2x/postgresql.png"></code> -->
-<!--   <code><img width="70px" src="https://img.icons8.com/color/2x/dart.png"></code> -->
-<!--   <code><img width="70px" src="https://img.icons8.com/color/2x/typescript.png"></code> -->
+
   <code><img width="70px"  src="https://img.icons8.com/color/2x/javascript.png"></code>
     <code><img width="70px"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
   <code><img width="70px"  src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
@@ -79,18 +75,9 @@ Hey 👋,I am <strong><a href="https://github.com/kskrao219/" target="_blank">K 
   
 
 
-<!-- ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varunsathreya&theme=gotham&show_icons=true&include_all_commits=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunsathreya&layout=compact)]() -->
-<!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VarunSAthreya)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <br/>
 <br/>
 
-<!-- <pre>  -->
-<!-- <div align="center">
-<a id="raw-url" href="https://drive.google.com/file/d/1HndG0C-8xceo682DcHHeoow4DicNlsU5/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=black&style=for-the-badge"/></a>
-</div> -->
-<!-- </pre> -->
 
 <p align="center">
   <a href='https://www.linkedin.com/in/k-s-keshava-rao-97a7b2174'>
