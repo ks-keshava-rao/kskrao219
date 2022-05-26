@@ -22,9 +22,8 @@ Hey 👋,I am <strong><a href="https://github.com/kskrao219/" target="_blank">K 
 <!--   <code><img height="70px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"></code> -->
   <code><img width="70px" src="https://img.icons8.com/color/2x/nodejs.png"></code>
   <code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-
   <code><img width="70px"  src="https://img.icons8.com/color/2x/javascript.png"></code>
-    <code><img width="70px"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+  <code><img width="70px"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
   <code><img width="70px"  src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
   <code><img width="70px"  src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
   <code><img width="70px"  src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
