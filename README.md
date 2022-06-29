@@ -35,6 +35,7 @@ Hey 👋,I am <strong><a href="https://github.com/kskrao219/" target="_blank">K 
   <code> <img  width="55px" src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg"></code>
   <code><img width="70px" src="https://img.icons8.com/color/50/000000/firebase.png"/></code>
   <code><img width="70px" src="https://img.icons8.com/color/50/000000/redux.png"/></code>
+  <code><img width="70px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"/></code>
 
 </p>
 </br>
