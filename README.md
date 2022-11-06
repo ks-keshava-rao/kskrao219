@@ -36,6 +36,11 @@ Hey 👋,I am <strong><a href="https://github.com/kskrao219/" target="_blank">K 
   <code><img width="70px" src="https://img.icons8.com/color/50/000000/firebase.png"/></code>
   <code><img width="70px" src="https://img.icons8.com/color/50/000000/redux.png"/></code>
   <code><img width="70px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"/></code>
+  <code><img width="70px"  src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"></code>
+  <code><img width="70px"  src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
+<code><img width="70px"  src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+  <code><img width="70px"  src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+
 
 </p>
 </br>
