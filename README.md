@@ -68,11 +68,11 @@ Hey 👋,I am <strong><a href="https://github.com/kskrao219/" target="_blank">K 
 <img src="https://github-readme-stats.vercel.app/api?username=kskrao219&show_icons=true&theme=gotham&count_private=true" alt="kskrao219" />
 </p>
 
-   <p align="center">
+<!--    <p align="center">
     <a href="https://profile.codersrank.io/user/varunsathreya/#Tech%20Skills" target="_blank">
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kskrao219&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C%23,C%2B%2B,CSS,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Dart,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Go,HTML&bg=white" alt="kskrao219" width="70%" height="70%" />
       </a>
-</p>
+</p> -->
   
 <p align="center">
 <img width="80%" height="80%" src="https://activity-graph.herokuapp.com/graph?username=kskrao219&theme=react-dark&count_private=true" alt="kskrao219" />
