@@ -12,7 +12,7 @@
      <img src="https://profile-counter.glitch.me/{kskrao219}/count.svg"  alt="counter"/>
 </p>
 
-Hey 👋,I am <strong><a href="https://github.com/kskrao219/" target="_blank">K S Keshava Rao</a></strong>, Full stack developer:globe_with_meridians: developer! Currently pursuing Bachelor of Engineering in Electrical and Electronics Engineering 🎓. 
+Hey 👋,I am <strong><a href="https://github.com/kskrao219/" target="_blank">K S Keshava Rao</a></strong>, Full stack developer:globe_with_meridians: developer! let's connect for innovative ideas !! 🎓. 
 
 ### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
 
